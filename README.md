@@ -47,7 +47,7 @@ git clone https://github.com/LinBR/vk-autoresponder
 cd vk-autoresponder
 3. Скачиваем все зависимости, которые использует бот  
  pip install -r requirements.txt
-4. Запуск скрипта
+4. Запуск скрипта  
 python auto_responder.py
 ## Автор
 Telegram: https://t.me/Lin089  
