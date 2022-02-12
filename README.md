@@ -46,6 +46,19 @@ git clone https://github.com/LinBR/vk-autoresponder
 2. Переходим в папку со скриптом  
 cd vk-autoresponder
 3. Скачиваем все зависимости, которые использует бот  
- pip install -r requirements.txt
+pip install -r requirements.txt
 4. Запуск скрипта  
+python auto_responder.py
+### Windows
+1. Скачиваем Python 
+( https://www.python.org/downloads/ )
+2. Также скачивам гит
+( https://git-scm.com/downloads )
+3. Теперь скачиваем сам скрипт  
+git clone https://github.com/LinBR/vk-autoresponder
+4. Переходим в папку со скриптом  
+cd vk-autoresponder
+5. Скачиваем модули, что использует скрипт  
+pip install -r requirements.txt
+6. Запуск скрипта  
 python auto_responder.py
